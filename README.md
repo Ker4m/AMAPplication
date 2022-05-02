@@ -76,3 +76,11 @@ Le backend est spécifié par le tableau suivant :
 
 Des détails sur la mise en place de l'authentification sont présents dans le lien suivant :
 - [Documentation authentification](docs/authentication.md)
+
+
+### Group Project
+Achieved with the help of :
+- Hugo Dabadie
+- Nicolas Ferlut
+- Nathan Gicquel
+- Titouan Lecamp
