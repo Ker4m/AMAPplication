@@ -1,0 +1,10 @@
+* Propositions et contrats: 
+- Au moment où un consommateur propose un contrat, vérifier que la quantité demandée est inférieur à la quantité restante et renvoyer une erreur sinon   OK
+- Au moment où un producteur valide le contrat, vérifier la même chose et renvoyer une erreur sinon  OK
+- Au moment où un producteur valide, update la base de données sur la quantité   OK
+
+- ajouter un état aux contrats, énumération ->  0 : en attente ; 1 : validé par le producteur ; 2 : refusée par le producteur ; 3 : terminée    OK
+- Et mettre à jour les états lors du get consumers/:id/contracts     OK
+
+- Verifier date nouvelle proposal postérieur date du jour
+- verifier date contract post date propal

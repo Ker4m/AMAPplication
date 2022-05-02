@@ -1,0 +1,7 @@
+{
+  "name": "Projet_ACOL_WEB",
+  "displayName": "Projet_ACOL_WEB",
+  "buildpacks": [
+    "heroku/nodejs"
+  ]
+}

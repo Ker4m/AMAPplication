@@ -1,0 +1,24 @@
+[0m[7m[1m[32m PASS [39m[22m[27m[0m ]8;;file:///home/hugod/Documents/Cours/4MMCAW/Projet_dabadieh_elmayanm_ferlutn_gicqueln_lecampt/__tests__/backend/unit/uOrganizer.test.js[2m__tests__/backend/unit/[22m[1muOrganizer.test.js[22m]8;;
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 total
+[1mTests:       [22m[1m[32m8 passed[39m[22m, 8 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        2.684 s, estimated 3 s
+[0m[7m[1m[32m PASS [39m[22m[27m[0m ]8;;file:///home/hugod/Documents/Cours/4MMCAW/Projet_dabadieh_elmayanm_ferlutn_gicqueln_lecampt/__tests__/backend/unit/uConsumers.test.js[2m__tests__/backend/unit/[22m[1muConsumers.test.js[22m]8;;
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 total
+[1mTests:       [22m[1m[32m11 passed[39m[22m, 11 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        2.623 s, estimated 3 s
+[0m[7m[1m[32m PASS [39m[22m[27m[0m ]8;;file:///home/hugod/Documents/Cours/4MMCAW/Projet_dabadieh_elmayanm_ferlutn_gicqueln_lecampt/__tests__/backend/unit/uProducers.test.js[2m__tests__/backend/unit/[22m[1muProducers.test.js[22m]8;;
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 total
+[1mTests:       [22m[1m[32m7 passed[39m[22m, 7 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        2.741 s, estimated 3 s
+[0m[7m[1m[32m PASS [39m[22m[27m[0m ]8;;file:///home/hugod/Documents/Cours/4MMCAW/Projet_dabadieh_elmayanm_ferlutn_gicqueln_lecampt/__tests__/backend/integration/iContractSignature.test.js[2m__tests__/backend/integration/[22m[1miContractSignature.test.js[22m]8;;
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 total
+[1mTests:       [22m[1m[32m10 passed[39m[22m, 10 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        3.637 s
